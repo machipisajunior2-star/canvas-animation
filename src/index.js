@@ -1,1 +1,3 @@
-console.log('Hello, World! JS is loaded and running.');
+import test from './test.js';
+
+console.log(test());
