@@ -17,6 +17,7 @@
   "homepage": "https://github.com/machipisajunior2-star/canvas-animation#readme",
   "devDependencies": {
     "css-loader": "^7.1.5",
+    "html-webpack-plugin": "^5.6.8",
     "sass": "^1.105.1",
     "sass-loader": "^17.0.1",
     "style-loader": "^4.0.0",
