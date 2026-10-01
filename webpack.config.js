@@ -8,10 +8,10 @@ module.exports = {
     output: {
         path: path.resolve(__dirname, 'dist'),
         filename: 'main.js',
-        clean: true,
-                assetModuleFilename: '[name][ext]',
+        // clean: true,
+        // assetModuleFilename: '[name][ext]',
     },
-        module: {
+    module: {
         rules: [
             {
                 test: /\.scss$/,
